@@ -1,0 +1,10 @@
+8. What was the final cache hit rate? ___75%______. 
+	
+9. What do you predict the hit rate will be if the block size is
+increased from 4 words to 8 words? ____87%______. Decreased from 4 words to 2
+words? ___50%____.
+
+12. What was the cache performance for this program? ____0%______. 
+
+15.  What is the cache performance of the original tool instance? ___0%____.
+	What is the cache performance of the second tool instance? ___94%_____. 
